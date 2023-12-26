@@ -20,3 +20,15 @@ public class StringDemo1 {
         System.out.println("str5:" + str5);
     }
 }
+
+// Создание строк и длина строки
+
+//Класс String поддерживает несколько конструкторов, например:
+//
+//String(),
+//String(String str),
+//String(byte[] asciichar),
+//String(char[] unicodechar),
+//String(StringBuffer sbuf),
+//String(StringBuilder sbuild) и др.
+//Для нахождения длины строки используется метод length()
