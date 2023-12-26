@@ -9,3 +9,5 @@ public class StringDemo2 {
         System.out.println(s2);
     }
 }
+
+// Создание строки из массива типа byte
