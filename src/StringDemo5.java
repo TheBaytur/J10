@@ -1,5 +1,5 @@
 public class StringDemo5 {
-    public static void main(String[] args) {
+    public static void main(String[] args) { // Сравнение части строки с подстрокой
         System.out.println("Foobar".endsWith("bar"));
         System.out.println("Foobar".startsWith("Foo"));
         System.out.println("Foobar".contains("oo"));
