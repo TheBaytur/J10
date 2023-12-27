@@ -11,3 +11,5 @@ public class EqualStrings {
         System.out.println("s1 equals s3 : " + s1.equals(s3));
     }
 }
+
+// Пример демонстрирует сравнение строк с помощью == и метода equals()
