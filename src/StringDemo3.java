@@ -4,3 +4,5 @@ public class StringDemo3 {
         System.out.println(ch);
     }
 }
+
+// Извлечение символов – метод charAt()
