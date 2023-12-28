@@ -7,3 +7,5 @@ public class ModifyStringDemo {
         System.out.println("    Hello World ".trim());
     }
 }
+
+// Методы concat(), replace(), toLowerCase(), toUpperCase(), trim()
