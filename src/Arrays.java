@@ -3,14 +3,17 @@ import java.util.ArrayDeque; // Modified Arrays
 class Arrays {
     public static void main(String[] args) {
         ArrayDeque<String> animals= new ArrayDeque<>();
-        // Using offer()
-        animals.offer("Dog");
-
-        // Using offerFirst()
-        animals.offerFirst("Cat");
-
-        // Using offerLast()
-        animals.offerLast("Horse");
+        animals.add("Dog");
+        animals.add("Cat");
+        animals.add("Horse");
         System.out.println("ArrayDeque: " + animals);
+
+        // Get the first element
+        String firstElement = animals.getFirst();
+        System.out.println("First Element: " + firstElement);
+
+        // Get the last element
+        String lastElement = animals.getLast();
+        System.out.println("Last Element: " + lastElement);
     }
 }
