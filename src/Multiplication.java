@@ -1,5 +1,5 @@
 
-public class Multiplication {
+public class Multiplication { // 30724 Resume
 
     public static void main(String[] args) {
 
