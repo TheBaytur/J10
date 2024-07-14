@@ -1,4 +1,4 @@
-class GCD3 {
+class GCD3 { // GCD for both positive and negative numbers
     public static void main(String[] args) {
 
         int n1 = 81, n2 = -153;
